@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there! 👋 I'm Mohamed Aziz Taher
 
-<!--
-**mohamedaziztaher/mohamedaziztaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Full-Stack Developer | AI & Blockchain Enthusiast**  
+👑 President of the EPI Sports Club  
 
-Here are some ideas to get you started:
+### 🔹 About Me  
+I'm a passionate software engineer with a strong interest in **web & mobile development and DevOps**. My projects range from **sports management apps** to **real-time collaborative tools**. I love building scalable and efficient systems while continuously learning and improving.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 What I'm Working On  
+- 🏆 **EPI Sports App** – A sports club management platform for students.  
+
+### 🔹 Tech Stack  
+**💻 Languages:** TypeScript, JavaScript, Python, C, Java  
+**🌐 Web:** React.js, Next.js, Node.js, Express, Deno  
+**📱 Mobile:** Flutter
+**🛠️ Backend & DevOps:** MongoDB, Firebase, Docker, CI/CD, NeoVim  
+
+---
