@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Mohamed Aziz Taher
 
-🚀 **Software Engineer | Full-Stack Developer | AI & Blockchain Enthusiast**  
+🚀 **Software Engineer Student | Full-Stack Developer | AI & Blockchain Enthusiast**  
 👑 President of the EPI Sports Club  
 
 ### 🔹 About Me  
@@ -11,7 +11,7 @@ I'm a passionate software engineer with a strong interest in **web & mobile deve
 
 ### 🔹 Tech Stack  
 **💻 Languages:** TypeScript, JavaScript, Python, C, Java  
-**🌐 Web:** React.js, Next.js, Node.js, Express, Deno  
+**🌐 Web:** React.js, Next.js, Node.js, Express, Spring Boot 
 **📱 Mobile:** Flutter
 **🛠️ Backend & DevOps:** MongoDB, Firebase, Docker, CI/CD, NeoVim  
 
