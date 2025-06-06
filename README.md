@@ -1,16 +1,46 @@
-## Hi there! 👋 I'm Mohamed Aziz Taher
+# 👋 Hi there, I'm Mohamed Aziz Taher
 
-🚀 **Software Engineer Student | Full-Stack Developer **  
-
-### 🔹 About Me  
-I'm a passionate software engineering student with a strong interest in web and mobile development, as well as AI.
-I love building scalable and efficient systems while continuously learning and improving.  
-
-
-### 🔹 Tech Stack  
-**💻 Languages:** JavaScript, Python, C, Java  
-**🌐 Web:** MERN Stack, Spring Boot 
-**📱 Mobile:** Flutter, Kotlin
-**🛠️ Databases:** MongoDB and Firebase 
+🚀 **Software Engineering Student** | 🧠 Passionate Full-Stack Developer | 📱 Mobile & AI Enthusiast
 
 ---
+
+## 👨‍💻 About Me
+
+I'm a software engineering student with a strong focus on web and mobile development, and growing interest in AI and scalable system design. I enjoy building elegant and efficient solutions while constantly learning new technologies.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+- JavaScript, Python, Java, C
+
+**Web Development:**  
+- React.js, Node.js, Express, Spring Boot, TypeScript
+
+**Mobile Development:**  
+- Flutter, Kotlin (Android)
+
+**Databases & Cloud:**  
+- MongoDB, Firebase, MySQL, PostgreSQL  
+- Docker, Git, GitHub Actions
+
+---
+
+## 📌 Featured Projects
+
+- 🔧 [FormationPlus](https://github.com/mohamedaziztaher/FormationPlus): Java Spring Boot app with MySQL backend.
+- 🎵 [Postify](https://github.com/mohamedaziztaher/Postify): Kotlin-based music player app.
+- 🌱 [More coming soon...]
+
+---
+
+## 📫 Let's Connect
+
+📍 Sousse, Tunisia  
+📧 mohamedaziz.taher@episousse.com.tn  
+
+
+---
+
+💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
