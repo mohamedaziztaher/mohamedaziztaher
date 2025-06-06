@@ -10,7 +10,7 @@ I love building scalable and efficient systems while continuously learning and i
 ### 🔹 Tech Stack  
 **💻 Languages:** JavaScript, Python, C, Java  
 **🌐 Web:** MERN Stack, Spring Boot 
-**📱 Mobile:** Flutter
+**📱 Mobile:** Flutter, Kotlin
 **🛠️ Databases:** MongoDB and Firebase 
 
 ---
