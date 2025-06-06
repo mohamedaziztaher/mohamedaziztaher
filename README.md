@@ -30,7 +30,7 @@ I'm a software engineering student with a strong focus on web and mobile develop
 ## 📌 Featured Projects
 
 - 🔧 [FormationPlus](https://github.com/mohamedaziztaher/FormationPlus): Java Spring Boot app with MySQL backend.
-- 🎵 [Postify](https://github.com/mohamedaziztaher/Postify): Kotlin-based music player app.
+- 📷 [Postify](https://github.com/mohamedaziztaher/Postify): A responsive social media Android app.
 - 🌱 [More coming soon...]
 
 ---
