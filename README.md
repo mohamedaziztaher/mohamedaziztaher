@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineering student with a strong focus on web and mobile development, and growing interest in AI and scalable system design. I enjoy building elegant and efficient solutions while constantly learning new technologies.
+I'm a software engineering student with a strong focus on web and mobile development, as well as a growing interest in AI and scalable system design. I enjoy building elegant and efficient solutions while constantly learning new technologies.
 
 ---
 
