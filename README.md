@@ -31,7 +31,7 @@ I'm a software engineering student with a strong focus on web and mobile develop
 ## 📫 Let's Connect
 
 📍 Sousse, Tunisia  
-📧 mohamedaziz.taher@episousse.com.tn  
+📧 mouhamedaziztaher@gmail.com
 
 
 ---
