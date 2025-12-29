@@ -93,9 +93,14 @@ I'm a software engineering student with a strong focus on web and mobile develop
 
 ## 💼 Projects
 
+<table>
+<tr>
+
+<td width="33.33%" valign="top">
+
 ### Flutter AI Chat Application
 <div align="center">
-  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/Flutter_AI_Chat_Application" alt="Flutter AI Chat Application" width="600"/>
+  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/Flutter_AI_Chat_Application" alt="Flutter AI Chat Application" width="100%"/>
 </div>
 
 **Description:** AI-powered chat application built with Flutter, featuring intelligent conversation capabilities and modern UI design.
@@ -108,11 +113,13 @@ I'm a software engineering student with a strong focus on web and mobile develop
 
 **Links:** [GitHub Repository](https://github.com/mohamedaziztaher/Flutter_AI_Chat_Application)
 
----
+</td>
+
+<td width="33.33%" valign="top">
 
 ### Postify
 <div align="center">
-  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/Postify" alt="Postify" width="600"/>
+  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/Postify" alt="Postify" width="100%"/>
 </div>
 
 **Description:** Social media application for creating and sharing posts, built with Kotlin for Android platform.
@@ -124,11 +131,13 @@ I'm a software engineering student with a strong focus on web and mobile develop
 
 **Links:** [GitHub Repository](https://github.com/mohamedaziztaher/Postify)
 
----
+</td>
+
+<td width="33.33%" valign="top">
 
 ### Postify Web
 <div align="center">
-  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/Postify_web" alt="Postify Web" width="600"/>
+  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/Postify_web" alt="Postify Web" width="100%"/>
 </div>
 
 **Description:** Web version of the Postify social media platform, built with modern web technologies.
@@ -141,11 +150,16 @@ I'm a software engineering student with a strong focus on web and mobile develop
 
 **Links:** [GitHub Repository](https://github.com/mohamedaziztaher/Postify_web)
 
----
+</td>
+
+</tr>
+<tr>
+
+<td width="33.33%" valign="top">
 
 ### News Chatbot
 <div align="center">
-  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/news_chatbot" alt="News Chatbot" width="600"/>
+  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/news_chatbot" alt="News Chatbot" width="100%"/>
 </div>
 
 **Description:** Intelligent chatbot application that provides news updates and information using AI and natural language processing.
@@ -157,11 +171,13 @@ I'm a software engineering student with a strong focus on web and mobile develop
 
 **Links:** [GitHub Repository](https://github.com/mohamedaziztaher/news_chatbot)
 
----
+</td>
+
+<td width="33.33%" valign="top">
 
 ### MazeLogin
 <div align="center">
-  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/MazeLogin" alt="MazeLogin" width="600"/>
+  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/MazeLogin" alt="MazeLogin" width="100%"/>
 </div>
 
 **Description:** Interactive login interface with maze-based authentication, built with TypeScript and modern web technologies.
@@ -173,11 +189,13 @@ I'm a software engineering student with a strong focus on web and mobile develop
 
 **Links:** [GitHub Repository](https://github.com/mohamedaziztaher/MazeLogin)
 
----
+</td>
+
+<td width="33.33%" valign="top">
 
 ### FormationPlus
 <div align="center">
-  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/FormationPlus" alt="FormationPlus" width="600"/>
+  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/FormationPlus" alt="FormationPlus" width="100%"/>
 </div>
 
 **Description:** Educational platform application for managing courses and training programs, built with Java and Spring Boot.
@@ -189,11 +207,16 @@ I'm a software engineering student with a strong focus on web and mobile develop
 
 **Links:** [GitHub Repository](https://github.com/mohamedaziztaher/FormationPlus)
 
----
+</td>
+
+</tr>
+<tr>
+
+<td width="33.33%" valign="top">
 
 ### LoanBook
 <div align="center">
-  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/loanBook" alt="LoanBook" width="600"/>
+  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/loanBook" alt="LoanBook" width="100%"/>
 </div>
 
 **Description:** Library management system for tracking and managing book loans, developed with Java.
@@ -204,11 +227,13 @@ I'm a software engineering student with a strong focus on web and mobile develop
 
 **Links:** [GitHub Repository](https://github.com/mohamedaziztaher/loanBook)
 
----
+</td>
+
+<td width="33.33%" valign="top">
 
 ### Docker CI/CD Project
 <div align="center">
-  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/tp-docker-cicd" alt="Docker CI/CD" width="600"/>
+  <img src="https://opengraph.githubassets.com/1/mohamedaziztaher/tp-docker-cicd" alt="Docker CI/CD" width="100%"/>
 </div>
 
 **Description:** DevOps project demonstrating containerization and continuous integration/continuous deployment practices.
@@ -220,7 +245,14 @@ I'm a software engineering student with a strong focus on web and mobile develop
 
 **Links:** [GitHub Repository](https://github.com/mohamedaziztaher/tp-docker-cicd)
 
----
+</td>
+
+<td width="33.33%" valign="top">
+
+</td>
+
+</tr>
+</table>
 
 ## 📊 GitHub Statistics
 
