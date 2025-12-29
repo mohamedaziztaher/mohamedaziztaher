@@ -2,19 +2,10 @@
 
 🚀 **Software Engineering Student** | 🧠 Passionate Full-Stack Developer | 📱 Mobile & AI Enthusiast
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedaziztaher&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=mohamedaziztaher&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaziztaher&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
-
-</div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-taher-9026a639b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouhamedaziztaher@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedaziztaher)
 
