@@ -2,21 +2,6 @@
 
 🚀 **Software Engineering Student** | 🧠 Passionate Full-Stack Developer | 📱 Mobile & AI Enthusiast
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=mohamedaziztaher&show_icons=true&theme=radical"
-  height="165"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaziztaher&layout=compact&theme=radical"
-  height="165"
-  alt="Top Languages"
-/>
-
-</div>
 
 <div align="center">
 
