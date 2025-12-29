@@ -4,9 +4,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaziztaher&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=mohamedaziztaher&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaziztaher&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedaziztaher&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=mohamedaziztaher&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaziztaher&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
 
 </div>
 
